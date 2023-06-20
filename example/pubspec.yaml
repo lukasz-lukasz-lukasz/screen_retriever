@@ -1,4 +1,4 @@
-name: screen_retriever_example
+name: kolla_screen_retriever_example
 description: Demonstrates how to use the screen_retriever plugin.
 
 # The following line prevents the package from being accidentally published to
@@ -6,7 +6,7 @@ description: Demonstrates how to use the screen_retriever plugin.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  screen_retriever:
+  kolla_screen_retriever:
     # When depending on this package from a real application you should use:
     #   screen_retriever: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
@@ -49,7 +49,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.

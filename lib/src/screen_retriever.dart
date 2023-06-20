@@ -3,7 +3,7 @@ import 'dart:ui';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:screen_retriever/screen_retriever.dart';
+import 'package:kolla_screen_retriever/screen_retriever.dart';
 
 // import 'screen_listener.dart';
 
