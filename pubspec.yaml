@@ -1,4 +1,4 @@
-name: screen_retriever
+name: kolla_screen_retriever
 description: This plugin allows Flutter desktop apps to Retrieve information about screen size, displays, cursor position, etc.
 version: 0.1.6
 homepage: https://github.com/leanflutter/screen_retriever
